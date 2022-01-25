@@ -3,7 +3,7 @@ $title = 'Мой сайт';
 $name = 'Неопознанный енот';
 $image = 'img/unknown-raccoon.svg';
 $email = 'enot_neopoznanniy@gmail.com';
-$phone = '+79876543210';
+$phone = '+79206484852';
 
 require('components/header.php');
 require('components/about.php');
