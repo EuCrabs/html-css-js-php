@@ -1,6 +1,6 @@
 <?php
 $title = 'Мой сайт';
-$name = 'Неопознанный енот';
+$name = 'Евгений';
 $image = 'img/unknown-raccoon.svg';
 $email = 'eucrabs@gmail.com';
 $phone = '+79206484852';
